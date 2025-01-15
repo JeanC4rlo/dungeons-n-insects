@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-width: 100vw;
+    min-height: 100vh;
+
+    margin: 0;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+.canvas-responsivo {
+    width: 90vw;
+    height: 90vh;
+}

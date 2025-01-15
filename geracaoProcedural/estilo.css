@@ -1,0 +1,12 @@
+#canvas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.sala {
+    background-color: red;
+}
+
+.rocha {
+    background-color: aqua;
+}
